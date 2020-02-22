@@ -35,11 +35,20 @@ Onion决定将做项目中总结的经验记录在这个仓库中
 - Blog 基于Mysql的博客系统 SpringBoot + thymeleaf (改写，非原创)
 - NoteHub 基于Mongodb、Elastic Search、Neo4j的笔记云仓库 SpringBoot + Electron + Flask
 
-> 机器学习篇
+> 部署篇
+
+- Docker部署前后端分离项目
+- Docker部署SpringCloud微服务与容器编排
+- Nginx反向代理与负载均衡
+- Nginx解决跨域
+
+> 机器学习与深度学习篇
 
 - 基于KMeans实现降维
-- 基于朴素贝叶斯实现文本分类
+- 基于朴素贝叶斯实现垃圾信息过滤
 - 基于随机森林填补缺失值
+- 基于TextCNN进行文本分类
+- NoteHub推荐算法实现
  
 敬请期待！
 
