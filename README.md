@@ -1,54 +1,66 @@
 # ProjectNote
-项目驱动整理的后端技术笔记
-Onion决定将做项目中总结的经验记录在这个仓库中
+计算机与软件工程方向笔记整理
 
-此次笔记的特点：只整理常用的，项目中用得到的技术，而不是将官方文档知识点罗列！
+结构图如下
+- AI 人工智能
+  - 机器学习
+  - 深度学习
+  - 计算机视觉
+  - 自然语言处理
 
-> 数据库篇
+- FrontDev 前端开发
+  - 前端框架
+  - 前端基础
+  - 前端工具
 
-- 树形评论 基于Mysql
-- 公交车线路查询 基于Neo4j
-- 社交网站关系 基于Neo4j
-- 文档数据库妙用 基于Mongodb
-- 搜索引擎的实现 基于Elastic Search
-- 日志分析 基于ELK
-- Redis应用场景分析 基于Redis
+- BackEndDev 后端开发
+  - Spring全家桶
+  - 微服务
+  - Python框架
+  - 关系数据库
+  - 非关系数据库
+  - 分布式
+  - 后端工具
 
-> SpringBoot篇
+- MobileDev 移动开发
+  - IOS开发
+  - 安卓开发
+  - 微信小程序
 
-- 项目整合常用知识点
+- DevOps 测试运维
+  - Linux
+  - 虚拟化技术
+  - 软件测试
+  - 服务器
 
-> 消息队列篇
+- BigData 大数据
+    - 云计算
+    - 数据挖掘
+    - 大数据框架
+    - 数学建模
 
-- 场景
+- Math 数学
+    - 高等数学
+    - 线性代数
+    - 概率论与数理统计
+    - 凸优化
+    - 离散数学
 
-> SpringCloud篇
+- BasicSubject 学科基础
+    - 操作系统
+    - 计算机网络
+    - 计算机组成
+    - 数据库原理
+    - 编译原理
+    - 数据结构
+    - 算法
+    - 面向对象分析与设计
 
-- 组件配置
-- 经典方案解决
-
-> 项目实战篇
-
-- 大学士 基于Mysql的社交网站项目 SpringBoot + Vue
-- LeetCode刷题宝典 基于Mongodb的题解网站 SpringBoot + Vue
-- MeetHere 基于Mysql和Redis的场馆预约系统 SpringBoot + React
-- Blog 基于Mysql的博客系统 SpringBoot + thymeleaf (改写，非原创)
-- NoteHub 基于Mongodb、Elastic Search、Neo4j的笔记云仓库 SpringBoot + Electron + Flask
-
-> 部署篇
-
-- Docker部署前后端分离项目
-- Docker部署SpringCloud微服务与容器编排
-- Nginx反向代理与负载均衡
-- Nginx解决跨域
-
-> 机器学习与深度学习篇
-
-- 基于KMeans实现降维
-- 基于朴素贝叶斯实现垃圾信息过滤
-- 基于随机森林填补缺失值
-- 基于TextCNN进行文本分类
-- NoteHub推荐算法实现
- 
-敬请期待！
+- ProgramLanguage 编程语言
+    - Java
+    - Python
+    - C
+    - C++
+  
+- Others 其他
 
